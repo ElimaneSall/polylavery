@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123044865391",
+    "project_id": "polylavery-51138",
+    "storage_bucket": "polylavery-51138.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123044865391:android:170e1d945e29e0fcad349a",
+        "android_client_info": {
+          "package_name": "com.example.polylavery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGG629isTFuTHQyMs4LhOJ8BkvVtqyf_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
